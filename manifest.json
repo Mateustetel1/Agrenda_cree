@@ -1,0 +1,20 @@
+{
+  "name": "Agenda de Estudos",
+  "short_name": "Agenda",
+  "description": "Aplicativo PWA para gerenciamento de compromissos escolares e do SENAI",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f2f5",
+  "theme_color": "#3f007a",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
